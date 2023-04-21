@@ -1,0 +1,59 @@
+Kelly Appleton
+
+ISTE 340: Client Programming
+
+Project 2: Use a lib (React.js) to consume a web service
+
+Due: Sunday 11/13/2022
+
+Components Used and From Where:
+
+- Positioned Popper
+  https://mui.com/material-ui/react-popper/
+
+- Basic Accordion
+  https://mui.com/material-ui/react-accordion/
+
+- Data Grid (w/ added Pagination)
+  https://mui.com/x/react-data-grid/
+  https://mui.com/x/react-data-grid/pagination/
+
+- Chip
+  https://mui.com/material-ui/react-chip/
+
+- Stack
+  https://mui.com/material-ui/react-stack/
+
+- Card (Complex Interaction)
+  https://mui.com/material-ui/react-card/
+
+- Navbar
+  https://react-bootstrap.github.io/components/navbar/
+
+- Avatar (image)
+  https://mui.com/material-ui/react-avatar/
+
+- Basic Modal (written in class)
+  https://mui.com/material-ui/react-modal/
+
+- Tab (written in class)
+  https://react.semantic-ui.com/modules/tab/
+
+- Blocks (React Spinner / Loader)
+  https://mhnpd.github.io/react-loader-spinner/docs/components/blocks/
+
+- Skeleton
+  Created from scratch. Referenced online tutorial found here: https://www.youtube.com/watch?v=ymqWGzsZD38
+  Used in App.js as placeholder for navbar (icon/avatar image and nav menu). All other components use block
+  loader before loading.
+  In getData.js, a proxy is selected. solace seems to load the page faster. people will demonstrate the loading components better.
+
+Additional Notes:
+I used multiple components from more than one library. I even created a skeleton component from scratch with assistance
+from a tutorial that also uses animation. The components used were carefully selected based on the data they are displaying.
+I also nested some components.
+I styled the page with built-in component styles, inline styling, and styling in a an App.css file. Some additions are subtle,
+like adjusting the pagination of the employer and co-op employer tables to allow a user to select the number of rows per page.
+The page is clean, with enough styling to differentiate sections and provide visual appeal.
+I tested the page and attempted to eliminate any bugs/problems, such as some Course titles containing
+'&amp' instead of just '&.'
