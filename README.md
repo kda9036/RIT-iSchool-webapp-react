@@ -21,4 +21,4 @@ Use of fetch to pull in your data (from JSON supplied from the web service) usin
 
 React, Node.js, JavaScript, CSS, Material UI, React Bootstrap
 
-See additional Readme for more information about the project and components used.
+See additional Readme file in the root directory for more information about the project and components used.
