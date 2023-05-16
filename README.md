@@ -1,5 +1,7 @@
 # RIT iSchool Web App: Use a lib (React.js) to consume a web service
 
+https://people.rit.edu/~kda9036/ISTE340/Project2/
+
 RIT Fall 2022
 
 Course: Client Programming
